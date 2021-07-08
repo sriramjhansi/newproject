@@ -17,7 +17,7 @@ public class arrayclass
 	{
 		arrayclass cc=new arrayclass();
 		cc.display();
-		System.out.println("jhansi");
+		System.out.println("divya");
 		
 		
 	}
